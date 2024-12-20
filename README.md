@@ -78,5 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to FastAPI and React communities for their excellent documentation and support.
   ## links
   frontend link : https://github.com/Suudi-sudo/Project-frontend.git
+  -------------------------------------------
   video link : https://www.loom.com/share/306bb0fa246d493d99ab81a705c178e3?sid=c7ff79ce-9645-4b93-a0c4-aad8adaacb54
+  -------------------------------------------------------
   slides link : https://docs.google.com/presentation/d/1VMPNAb76UGAM_U-qwvsgLGpl4hscyiyD5oGf4CcoA9Y/edit?usp=sharing
